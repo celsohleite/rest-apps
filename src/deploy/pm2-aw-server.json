@@ -1,0 +1,21 @@
+{
+  "apps": [
+    {
+      "name": "aw-server",
+      "script": "./bin/index.bundle.js",
+      "instances": 1,
+      "exec_mode": "fork",
+      "error_file": "logs/err.log",
+      "out_file": "logs/out.log",
+      "env": {
+        "AW_ORACLE_USER": "username",
+        "AW_ORACLE_PASSWORD": "password",
+        "AW_ORACLE_CONNECTION_STRING": "127.0.0.1:1521/dsvsp1",
+        "AW_ORACLE_POOL_ALIAS": "40",
+        "AW_APP_SERVER_PORT": "5001",
+        "APP_SERVER_USE_HTTP2": "false",
+        "GE_APP_CLIENT_URL": "http://localhost:4200"
+      }
+    }
+  ]
+}

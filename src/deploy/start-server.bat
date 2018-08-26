@@ -1,0 +1,1 @@
+pm2 start pm2-aw-server.json
