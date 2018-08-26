@@ -1,0 +1,1 @@
+{"version":3,"file":"icliente.js","sourceRoot":"","sources":["../../../src/module/model/icliente.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AAQxB,QAAA,aAAa,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC/C,IAAI,EAAE,EAAE,IAAI,EAAE,MAAM,EAAE,QAAQ,EAAE,IAAI,EAAE;IACtC,EAAE,EAAE,MAAM;CACX,CAAC,CAAC;AACH,MAAM,OAAO,GAAG,QAAQ,CAAC,KAAK,CAAW,SAAS,EAAE,qBAAa,CAAC,CAAC;AACnE,kBAAe,OAAO,CAAC"}
